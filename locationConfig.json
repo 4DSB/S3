@@ -12,6 +12,6 @@
             "bucketName": "multitester555",
             "bucketMatch": true,
             "credentialsProfile": "default"
-        }
+        } 
     }
 }
